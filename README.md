@@ -1,6 +1,6 @@
 <h1><p align="center">Hello, I'm Hritik Bansal! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 <p align="center">
-  <img src="https://github.com/lasnabunan/Hritik_Bansal/blob/main/Intro_Hritik.gif" width="550px" />
+  <img src="https://github.com/lasnabunan/lasnabunan/blob/main/Intro_Hritik.gif" width="550px" />
 </p>
 
 <!--
