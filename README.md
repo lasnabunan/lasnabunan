@@ -1,11 +1,12 @@
 <p align="center">
-  <img src="https://drive.google.com/file/d/1uHy5BdpajYtcWzH9wsl3HYr_qM7knMDV/view?usp=sharing" />
+  <img src="https://github.com/lasnabunan/Hritik_Bansal/blob/main/Intro_Hritik.gif" />
 </p>
 
+<!--
 <p align="center">
-    <img src="https://drive.google.com/file/d/1TSEId_B1KhWKVRYqtxS1Rh0pMKUwnJ-T/view?usp=sharing" width="350px" alt="Hritik Bansal" />
+    <img src="https://github.com/lasnabunan/Hritik_Bansal/blob/main/Hritik%20Bansal(2).png" width="550px" alt="Hritik Bansal" />
 </p>
-
+-->
 # About Me
 Hi folks :wave: 
 
