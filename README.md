@@ -53,13 +53,13 @@ Hi folks :wave:
       <a>
         <img src="https://github.com/lasnabunan/lasnabunan/blob/main/Icon%20Packs/C.png" width="40"/>
       </a>
-      <br>C
+      <br>C language
     </td>
     <td align="center" width="96">
       <a>
         <img src="https://github.com/lasnabunan/lasnabunan/blob/main/Icon%20Packs/C%2B%2B.png" width="40"/>
       </a>
-      <br>C++
+      <br>C++ language
     </td>
     <td align="center" width="96">
       <a>
