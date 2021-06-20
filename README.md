@@ -43,13 +43,69 @@ Hi folks :wave:
   </div>  
 </p>
 
+## 💻 Things I know
+
+> <i>Tools, languages, and other things that I like to work with.</i>
+<br>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/html.svg" width="40"/>
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/css.svg" width="40"/>
+      </a>
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/js.svg" width="40"/>
+      </a>
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/react.svg" width="40"/>
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/bootstrap.svg" width="40"/>
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/unity.svg" width="40"/>
+      </a>
+      <br>Unity
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/py.svg" width="40"/>
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/ps.svg" width="40"/>
+      </a>
+      <br>Photoshop
+    </td> 
+  </tr>
+</table>
+<br>
 
 ## Connect with me
 
 [<img align ="left" width = "40px" height ="40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg"/>](https://www.linkedin.com/in/hritikbansal/)
 [<img align ="left" width = "40px" height ="40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg"/>](https://www.instagram.com/_blank_hritik/)
 [<img align ="left" width = "40px" height ="40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/facebook.svg"/>](https://www.facebook.com/hritik.bansal.1)
-[<img align ="left" width = "40px" height ="40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/discord.svg"/>](https://www.facebook.com/hritik.bansal.1)
 [<img align = "left" width = "40px" height = "40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg">](https://twitter.com/lasnabunan)
 <br>
 
