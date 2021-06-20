@@ -53,31 +53,31 @@ Hi folks :wave:
       <a>
         <img src="https://github.com/lasnabunan/lasnabunan/blob/main/Icon%20Packs/tensorflow-ar21.svg" width="40"/>
       </a>
-      <br>HTML
+      <br>TensorFlow
     </td>
     <td align="center" width="96">
       <a>
         <img src="https://github.com/lasnabunan/lasnabunan/blob/main/Icon%20Packs/google-cloud.png" width="40"/>
       </a>
-      <br>HTML
+      <br>Google Cloud
     </td>
     <td align="center" width="96">
       <a>
         <img src="https://github.com/lasnabunan/lasnabunan/blob/main/Icon%20Packs/github-seeklogo.com.svg" width="40"/>
       </a>
-      <br>HTML
+      <br>Github
     </td>
     <td align="center" width="96">
       <a>
         <img src="https://github.com/lasnabunan/lasnabunan/blob/main/Icon%20Packs/colab_favicon_256px.png" width="40"/>
       </a>
-      <br>HTML
+      <br>GoogleColab
     </td>
     <td align="center" width="96">
       <a>
         <img src="https://github.com/lasnabunan/lasnabunan/blob/main/Icon%20Packs/atom.svg" width="40"/>
       </a>
-      <br>HTML
+      <br>Atom
     </td>
     <td align="center" width="96">
       <a>
