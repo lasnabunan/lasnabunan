@@ -142,6 +142,7 @@ Hi folks :wave:
 [<img align ="center" width = "40px" height ="40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg"/>](https://www.linkedin.com/in/hritikbansal/)
 [<img align ="center" width = "40px" height ="40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg"/>](https://www.instagram.com/_blank_hritik/)
 [<img align ="center" width = "40px" height ="40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/facebook.svg"/>](https://www.facebook.com/hritik.bansal.1)
+[<img align ="center" width = "40px" height ="40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg"/>](mailto:hritik.anselmite@gmail.com)
 [<img align = "center" width = "40px" height = "40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg">](https://twitter.com/lasnabunan)
 <br><br>
 
