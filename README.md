@@ -51,7 +51,7 @@ Hi folks :wave:
   <tr>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/lasnabunan/lasnabunan/blob/main/Icon%20Packs/tensorflow-ar21.svg" width="40"/>
+        <img src="https://github.com/lasnabunan/lasnabunan/blob/main/Icon%20Packs/tensorflow-ar21.svg" width="60"/>
       </a>
       <br>TensorFlow
     </td>
@@ -71,7 +71,7 @@ Hi folks :wave:
       <a>
         <img src="https://github.com/lasnabunan/lasnabunan/blob/main/Icon%20Packs/colab_favicon_256px.png" width="40"/>
       </a>
-      <br>GoogleColab
+      <br>Google Colab
     </td>
     <td align="center" width="96">
       <a>
