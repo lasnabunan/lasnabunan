@@ -25,7 +25,9 @@ Hi folks :wave:
 
 # My Activity
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=lasnabunan&custom_title=Hritik's%20Activity%20Graph&hide_border=false&bg_color=14202E&color=E4F4F3&line=38BFF0&point=E4F4F3)](https://github.com/lasnabunan/github-readme-activity-graph)
+<!--[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=lasnabunan&custom_title=Hritik's%20Contribution%20Graph&hide_border=false&bg_color=14202E&color=E4F4F3&line=38BFF0&point=E4F4F3)](https://github.com/lasnabunan/github-readme-activity-graph)
+-->
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=lasnabunan&theme=redical)](https://github.com/lasnabunan/github-readme-activity-graph)
 
 # Statistics
 
