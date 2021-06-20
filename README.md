@@ -69,12 +69,6 @@ Hi folks :wave:
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/react.svg" width="40"/>
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a>
         <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/bootstrap.svg" width="40"/>
       </a>
       <br>Bootstrap
