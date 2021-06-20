@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+  <img src="https://drive.google.com/file/d/1uHy5BdpajYtcWzH9wsl3HYr_qM7knMDV/view?usp=sharing" />
 </p>
 
 <p align="center">
-    <img src="https://tanaytoshniwal.me/assets/images/nametag.png" width="350px" alt="tanay toshniwal" />
+    <img src="https://drive.google.com/file/d/1TSEId_B1KhWKVRYqtxS1Rh0pMKUwnJ-T/view?usp=sharing" width="350px" alt="Hritik Bansal" />
 </p>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=tanaytoshniwal&show_icons=true&count_private=true&theme=dark"/>
