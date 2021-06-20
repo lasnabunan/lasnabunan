@@ -10,7 +10,7 @@
 -->
 <p align="center">I'm a student developer.<br/>I specialize in Machine Learning, NLP and Competitive Programming.<br> I also love playing Football and Athletics.<br></p><br/>
 
-<p align = "center"><a href="https://www.buymeacoffee.com/rahulmahesh62"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="rahulmahesh62" /></a></p><br><br>
+<p align = "center"><a href="https://www.buymeacoffee.com/rahulmahesh62"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="rahulmahesh62" /></a></p><br>
 
 
 # About Me
@@ -23,11 +23,11 @@ Hi folks :wave:
 - 😄 Pronouns: He
 - 💬 Ask me about Machine Learning, Competititve Programming and NLP, any tech-related stuff.
 
-## My Activity
+# My Activity
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lasnabunan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-## Statistics
+# Statistics
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
@@ -43,7 +43,7 @@ Hi folks :wave:
   </div>  
 </p>
 
-## 💻 Things I know
+# 💻 Things I know
 
 > <i>Tools, languages, and other things that I like to work with.</i>
 <br>
@@ -125,15 +125,15 @@ Hi folks :wave:
 </table>
 <br>
 
-## Connect with me
+# Connect with me
 
-[<img align ="left" width = "40px" height ="40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg"/>](https://www.linkedin.com/in/hritikbansal/)
-[<img align ="left" width = "40px" height ="40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg"/>](https://www.instagram.com/_blank_hritik/)
-[<img align ="left" width = "40px" height ="40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/facebook.svg"/>](https://www.facebook.com/hritik.bansal.1)
-[<img align = "left" width = "40px" height = "40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg">](https://twitter.com/lasnabunan)
-<br>
-<br>
-## Visitor's count
+[<img align ="center" width = "40px" height ="40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg"/>](https://www.linkedin.com/in/hritikbansal/)
+[<img align ="center" width = "40px" height ="40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg"/>](https://www.instagram.com/_blank_hritik/)
+[<img align ="center" width = "40px" height ="40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/facebook.svg"/>](https://www.facebook.com/hritik.bansal.1)
+[<img align = "center" width = "40px" height = "40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg">](https://twitter.com/lasnabunan)
+<br><br>
+
+# Visitor's count
 
 ![Visitor Count](https://profile-counter.glitch.me/{Hritik_Bansal}/count.svg)
 
