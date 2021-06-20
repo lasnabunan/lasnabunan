@@ -6,7 +6,7 @@
     <img src="https://drive.google.com/file/d/1TSEId_B1KhWKVRYqtxS1Rh0pMKUwnJ-T/view?usp=sharing" width="350px" alt="Hritik Bansal" />
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=tanaytoshniwal&show_icons=true&count_private=true&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=lasnabunan&show_icons=true&count_private=true&theme=dark"/>
 </p>
 
 # About Me
