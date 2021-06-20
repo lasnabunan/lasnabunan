@@ -51,7 +51,7 @@ Hi folks :wave:
   <tr>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/lasnabunan/lasnabunan/blob/main/Icon%20Packs/tensorflow-ar21.svg" width="60"/>
+        <img src="https://github.com/lasnabunan/lasnabunan/blob/main/Icon%20Packs/tensorflow-ar21.svg" width="100"/>
       </a>
       <br>TensorFlow
     </td>
