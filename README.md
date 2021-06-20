@@ -51,13 +51,13 @@ Hi folks :wave:
   <tr>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/lasnabunan/lasnabunan/blob/main/Icon%20Packs/c-original.svg" width="100"/>
+        <img src="https://github.com/lasnabunan/lasnabunan/blob/main/Icon%20Packs/C.png" width="40"/>
       </a>
       <br>C
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/lasnabunan/lasnabunan/blob/main/Icon%20Packs/c%2B%2B.svg" width="100"/>
+        <img src="https://github.com/lasnabunan/lasnabunan/blob/main/Icon%20Packs/C%2B%2B.png" width="40"/>
       </a>
       <br>C++
     </td>
