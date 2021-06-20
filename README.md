@@ -8,7 +8,7 @@
     <img src="https://github.com/lasnabunan/Hritik_Bansal/blob/main/Hritik%20Bansal(2).png" width="550px" alt="Hritik Bansal" />
 </p>
 -->
-<p align="center">I'm a student developer.<br/>I specialize in Machine Learning, NLP and Competitive Programming.<br> I also love playing football and Athletics etc.<br></p><br/>
+<p align="center">I'm a student developer.<br/>I specialize in Machine Learning, NLP and Competitive Programming.<br> I also love playing Football and Athletics.<br></p><br/>
 
 <p align = "center"><a href="https://www.buymeacoffee.com/rahulmahesh62"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="rahulmahesh62" /></a></p><br><br>
 
@@ -21,7 +21,7 @@ Hi folks :wave:
 - 👯 I’m looking to collaborate on Machine Learning and NLP projects.
 - 🤔 I’m looking for help with NLP.
 - 😄 Pronouns: He
-- 💬 Ask me about Machine Learning, Competititve Programming and NLP, Any tech-related stuff.
+- 💬 Ask me about Machine Learning, Competititve Programming and NLP, any tech-related stuff.
 
 ## My Activity
 
@@ -108,7 +108,7 @@ Hi folks :wave:
 [<img align ="left" width = "40px" height ="40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/facebook.svg"/>](https://www.facebook.com/hritik.bansal.1)
 [<img align = "left" width = "40px" height = "40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg">](https://twitter.com/lasnabunan)
 <br>
-
+<br>
 ## Visitor's count
 
 ![Visitor Count](https://profile-counter.glitch.me/{Hritik_Bansal}/count.svg)
