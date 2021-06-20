@@ -1,5 +1,6 @@
+<h1><p align="center">Hello, I'm Hritik Bansal! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 <p align="center">
-  <img src="https://github.com/lasnabunan/Hritik_Bansal/blob/main/Intro_Hritik.gif" />
+  <img src="https://github.com/lasnabunan/Hritik_Bansal/blob/main/Intro_Hritik.gif" width="550px" />
 </p>
 
 <!--
@@ -7,12 +8,20 @@
     <img src="https://github.com/lasnabunan/Hritik_Bansal/blob/main/Hritik%20Bansal(2).png" width="550px" alt="Hritik Bansal" />
 </p>
 -->
+<p align="center">I'm a student developer.<br/>I specialize in Machine Learning, NLP and Competitive Programming.<br> I also love playing football and Athletics etc.<br></p><br/>
+
+<p align = "center"><a href="https://www.buymeacoffee.com/rahulmahesh62"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="rahulmahesh62" /></a></p><br><br>
+
+
 # About Me
 Hi folks :wave: 
 
-I'm Tanay Toshniwal, a Full Stack Developer in MEAN (MongoDB-Express.js-Angular-Node.js) and MERN(MongoDB-Express.js-React.js-Node.js) Stack, an App Developer and a part-time Musician.
-
-I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engineering from SRM Institute of Science and Technology, Chennai. I love to learn about how things work and try new tools and technologies. I love to share time with developer communities and events.
+- 🔭 I'm currently working as an Associate Consutant.
+- 🌱 I’m currently learning React and JS.
+- 👯 I’m looking to collaborate on Machine Learning and NLP projects.
+- 🤔 I’m looking for help with NLP.
+- 😄 Pronouns: He
+- 💬 Ask me about Machine Learning, Competititve Programming and NLP, Any tech-related stuff.
 
 ## My Activity
 
@@ -37,10 +46,10 @@ I'm a Computer Science Engineer. I did my Bachelor's in Computer Science & Engin
 
 ## Connect with me
 
-[<img align = "left" width = "40px" height = "40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg">(https://twitter.com/lasnabunan)
-[<img align = "left" width = "40px" height = "40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg">(https://www.instagram.com/_blank_hritik/)
-
+[<img align ="left" width = "40px" height ="40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg"/>](https://www.linkedin.com/in/hritikbansal/)
+[<img align ="left" width = "40px" height ="40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg"/>](https://www.instagram.com/_blank_hritik/)
 [<img align ="left" width = "40px" height ="40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/facebook.svg"/>](https://www.facebook.com/hritik.bansal.1)
+[<img align ="left" width = "40px" height ="40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/discord.svg"/>](https://www.facebook.com/hritik.bansal.1)
 [<img align = "left" width = "40px" height = "40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg">](https://twitter.com/lasnabunan)
 <br>
 
