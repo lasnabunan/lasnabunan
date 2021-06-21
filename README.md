@@ -16,7 +16,7 @@
 # About Me
 Hi folks :wave: 
 
-- 🔭 I'm currently working as an Associate Consutant.
+- 🔭 I'm currently working as a student developer.
 - 🌱 I’m currently learning React and JS.
 - 👯 I’m looking to collaborate on Machine Learning and NLP projects.
 - 🤔 I’m looking for help with NLP.
