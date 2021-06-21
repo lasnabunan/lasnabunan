@@ -10,8 +10,8 @@
 -->
 <p align="center">I'm a student developer.<br/>I specialize in Machine Learning, NLP and Competitive Programming.<br> I also love playing Football and Athletics.<br></p><br/>
 
-<!--<p align = "center"><a href="https://www.buymeacoffee.com/rahulmahesh62"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="rahulmahesh62" /></a></p><br>
--->
+<p align = "center"><a href="https://buymeacoffee.com/lasnabunan"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="rahulmahesh62" /></a></p><br>
+
 
 # About Me
 Hi folks :wave: 
