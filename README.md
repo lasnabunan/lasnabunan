@@ -20,7 +20,7 @@ Hi folks :wave:
 - 🌱 I’m currently learning React and JS.
 - 👯 I’m looking to collaborate on Machine Learning and NLP projects.
 - 🤔 I’m looking for help with NLP.
-- 😄 Pronouns: He
+- 😄 Pronouns: He/Him
 - 💬 Ask me about Machine Learning, Competititve Programming and NLP, any tech-related stuff.
 
 # My Activity
